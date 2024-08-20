@@ -1,4 +1,6 @@
-# Getting Started
+# Scrimba Portfolio
+
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install
